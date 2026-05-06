@@ -1,0 +1,28 @@
+---
+page-layout: full
+---
+
+# Melanie Medina López, PhD
+
+::::::::: columns
+:::::: {.column width="29%"}
+::::: about-left
+::: about-photo
+![](images/MedinaLopez_Melanie_cropped.jpg){width="210"}
+:::
+
+::: about-links
+### [<i class="bi bi-github"></i>](https://github.com/melaniemml) [<i class="bi bi-linkedin"></i>](https://www.linkedin.com/in/melanie-medina-lopez-893a81158/) [<i class="bi bi-envelope-at-fill"></i>](mailto:mkm6528@psu.edu)
+:::
+:::::
+::::::
+
+::: {.column width="2%"}
+:::
+
+::: {.column width="69%"}
+## About
+
+I'm a microbial ecologists fascinated by how microbes influence agroecosystems. Currently, I am a postdoctoral scholar in the Roman-Reyna Lab at Penn State, where I study plant microbiomes and the microbial genomics of plant pathogens. In my previous work I have studied diverse agricultural systems to understand the impact of management and soil legacy on microbial communities and plant health.
+:::
+:::::::::

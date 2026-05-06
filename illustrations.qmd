@@ -1,0 +1,13 @@
+---
+title: ""
+---
+
+# Illustrations
+
+## Infographic
+
+![](images/23_PPGSAss_Poster.pdf){fig-align="center" width="920" height="700"}
+
+## In Books
+
+![](images/Figure2.png){width="100%"}

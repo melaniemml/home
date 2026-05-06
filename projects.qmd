@@ -1,0 +1,25 @@
+---
+title: ""
+---
+
+# Projects
+
+## Metagenomics
+
+### *Pectobacterium parmentieri* and *Verticillium dahliae* alter the functional genetic profile of the potato microbiome
+
+## Comparative genomics
+
+### Genomic and phenotypic analysis of historic and current *Pectobacterium* species isolated in Pennsylvania
+
+## Network analysis
+
+### [Fungal communities shift with soybean cyst nematode abundance in soils](https://apsjournals.apsnet.org/doi/full/10.1094/PBIOMES-02-24-0021-R) {style="color: gray"}
+
+![](images/23_ASM_Poster_MML_V2.pdf){fig-align="center" width="922" height="692"}
+
+## Foundational statistics
+
+### [Soybean Cyst Nematode Reproduction and Soybean Biomass: The Legacy of Soil Cropping Histories](https://apsjournals.apsnet.org/doi/full/10.1094/PHYTOFR-06-25-0057-R) {style="color: gray"}
+
+![](images/22_APS_Poster_MML_V2.pdf){fig-align="center" width="922" height="692"}

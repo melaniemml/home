@@ -1,0 +1,7 @@
+---
+title: ""
+---
+
+# CV
+
+![](images/26Mar_CV_MedinaLopez.pdf){fig-align="center" width="918" height="1188"}
