@@ -2,10 +2,10 @@
 page-layout: full
 title: Melanie Medina López, PhD
 ---
-
 :::::::::: columns
 ::::::: {.column width="29%"}
 :::::: about-left
+
 ::: about-photo
 ![](images/MedinaLopez_Melanie_cropped.jpg){width="210"}
 :::
