@@ -1,8 +1,7 @@
 ---
 page-layout: full
+title: Melanie Medina López, PhD
 ---
-
-# Melanie Medina López, PhD
 
 :::::::::: columns
 ::::::: {.column width="29%"}
