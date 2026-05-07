@@ -13,7 +13,12 @@
 
 .about-links{
   display: flex;
-  flex-direction: column;
   align-items: center;
-  gap: 0.4rem;
+  display:flex;
+  justify-content: center;
+}
+
+.about-button{
+  display:flex;
+  justify-content: center;
 }
