@@ -6,8 +6,10 @@ title: ""
 
 ## Infographic
 
-![](images/23_PPGSAss_Poster.pdf){fig-align="center" width="920" height="700"}
+![](images/23_PPGSAss_Poster.jpg){fig-align="center" width="100%"}
 
 ## In Books
+
+Importance and Principles of Nematode Disease Complexes. In Nematode Disease Complexes in Agricultural Crops. pp 35, 40. CABI. 2025. By Lopez-Nicora, H. D., Costa Silva, E. H., & d’Errico, G.
 
 ![](images/Figure2.png){width="100%"}
